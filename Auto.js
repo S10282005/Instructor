@@ -1,4 +1,4 @@
-const containerE1 = documents.querySelector(".container"); // Fixed typo
+const containerE1 = document.querySelector(".Container"); // Fixed typo
 
 const careers = ["Youtube", "Web Developer", "Freelancer", "Instructor"];
 
